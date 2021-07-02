@@ -19,6 +19,8 @@ public class MyTest {
 
             System.out.println("222");
 
+            System.out.println("111");
+
         }
     }
 }
